@@ -41,6 +41,6 @@ Scope:
 
 Brief side notes:
 
+- This won't be a ranking.
 - I have experience with Angular and React.
-- This won't be a ranking here.
 - I don't make a big distinction between framework, library, meta framework, etc.
