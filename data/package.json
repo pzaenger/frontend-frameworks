@@ -1,8 +1,8 @@
 {
   "name": "data",
+  "private": true,
   "version": "1.0.0",
   "description": "Mock API",
-  "private": "true",
   "scripts": {
     "start": "json-server --watch --port 3000 db.json"
   },
