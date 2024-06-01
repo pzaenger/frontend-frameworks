@@ -1,0 +1,13 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "Mock API",
+  "private": "true",
+  "scripts": {
+    "start": "json-server --watch --port 3000 db.json"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "json-server": "1.0.0-beta.0"
+  }
+}
