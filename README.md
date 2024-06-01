@@ -30,6 +30,7 @@ Not considered:
 - [Flutter](https://flutter.dev/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Handlebars](https://handlebarsjs.com/)
+- [Hono](https://hono.dev/)
 - [jQuery](https://jquery.com/)
 - [Mithril](https://mithril.js.org/)
 - [Stencil](https://stenciljs.com/)
