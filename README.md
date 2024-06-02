@@ -42,5 +42,6 @@ Scope:
 Brief side notes:
 
 - This won't be a ranking.
-- I have experience with Angular and React.
+- I have some experience with Angular and React.
 - I don't make a big distinction between framework, library, meta framework, etc.
+- It's not about implementing production-ready applications - actually it will be far from that.

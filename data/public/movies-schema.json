@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Movies",
+  "description": "List of movies",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "title": {
+        "type": "string"
+      },
+      "year": {
+        "type": "integer"
+      },
+      "cast": {
+        "type": "array",
+        "uniqueItems": true,
+        "items": {
+          "type": "string"
+        }
+      },
+      "genres": {
+        "type": "array",
+        "uniqueItems": true,
+        "items": {
+          "type": "string"
+        }
+      },
+      "href": {
+        "type": "string"
+      },
+      "extract": {
+        "type": "string"
+      },
+      "thumbnail": {
+        "type": "string"
+      },
+      "thumbnailWidth": {
+        "type": "integer"
+      },
+      "thumbnailHeight": {
+        "type": "integer"
+      }
+    },
+    "required": [
+      "title",
+      "year",
+      "cast",
+      "genres",
+      "href",
+      "extract",
+      "thumbnail",
+      "thumbnailWidth",
+      "thumbnailHeight"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "frontend-frameworks",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Implementation of a web application using different frontend frameworks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pzaenger/frontend-frameworks.git"
+  },
+  "author": "Philipp Zängerling <dev@pzaenger.com> (https://github.com/pzaenger/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pzaenger/frontend-frameworks/issues"
+  },
+  "homepage": "https://github.com/pzaenger/frontend-frameworks#readme",
+  "keywords": [
+    "Angular",
+    "Elm",
+    "htmx",
+    "Lit",
+    "Next",
+    "Nuxt",
+    "Preact",
+    "Qwik",
+    "React",
+    "React Native",
+    "Remix",
+    "Solid",
+    "Svelte",
+    "Vue"
+  ]
+}
